@@ -1,0 +1,26 @@
+.homeHeading{
+    margin-top: 150.09px;
+    padding: 0 180px 100px 180px;
+    background-color: #1B1B1B;
+}
+.homeHeading h1{
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+.homeHeading h3{
+    font-size: 60px;
+    font-weight: 500;
+    margin-bottom: 60px;
+    color: #FFF;
+}
+.homeHeading span{
+    color: #858585;
+}
+.homeHeading p{
+    color: #858585;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 61px;
+}

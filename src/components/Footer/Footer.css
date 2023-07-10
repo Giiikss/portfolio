@@ -1,0 +1,26 @@
+.footerDiv{
+    margin-top: -60px;
+    padding-bottom: 40px;
+    /* padding: 0 180px 100px 180px; */
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.footerDiv ul{
+    display: flex;
+    gap: 35px;
+}
+.footerDiv li{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    cursor: pointer;
+}
+.footerDiv h5{
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
